@@ -1,0 +1,5 @@
+
+
+# 搜索历史
+USER_BROWSING_HISTORY_COUNTS_LIMIT = 5
+

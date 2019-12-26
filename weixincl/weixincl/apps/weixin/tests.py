@@ -33,7 +33,7 @@ from rest_framework.views import APIView
 #             "introduction":introduction
 #
 #         }
-#         context=json.dumps(context)
-#         return HttpResponse(context)
+         context=json.dumps(context)
+         return HttpResponse(context)
 
 
